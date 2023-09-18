@@ -1,6 +1,6 @@
 # Windows-Shortcut-Maker-1
 
-> **Status: Work in Progress**  
+> **Status: Work in Progress**. I don't plan to update this for a while.
 > This project aims to simplify the complex task of creating shortcuts for Windows users.
 
 ---
